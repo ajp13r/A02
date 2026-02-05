@@ -47,14 +47,25 @@ Make Changes, Commit, and Push
    - git push origin "branch_name" or "main" // This line pushes the changes to your remote repository (GitHub)
 
 Branch - A separated line of development where you can work on features without causing any damage to the original/main code
+
 Clone - A copy of a remote repository
+
 Commit - A saved version/snapshot of the changes you made to a file
+
 Fetch - Updates from a remote repository
+
 GIT - A version control system that tracks changes
+
 GitHub - Website that hosts Git repositories
+
 Merge - Combines changes from one branch into another
+
 Merge Conflict - When there’s more than one copy being made to the same file
+
 Push - Uploads local commits to a remote repository
+
 Pull - Updates changes from a remote repository into your local repository
+
 Remote - online, in this case an online version of a repository
+
 Repository - A folder that has project files
